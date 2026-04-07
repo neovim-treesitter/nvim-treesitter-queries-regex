@@ -1,7 +1,7 @@
 {
   "url": "https://github.com/tree-sitter/tree-sitter-regex",
-  "lang": "regex",
+  "semver": false,
   "parser_version": "b2ac15e27fce703d2f37a79ccd94a5c0cbe9720b",
-  "location": null,
-  "semver": false
+  "lang": "regex",
+  "location": null
 }
